@@ -1,0 +1,25 @@
+{
+  "name": "excel-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server:start": "scripty",
+    "ui:start": "scripty",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaotangdou/excel-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaotangdou/excel-node/issues"
+  },
+  "homepage": "https://github.com/xiaotangdou/excel-node#readme",
+  "devDependencies": {
+    "scripty": "^2.0.0"
+  }
+}
